@@ -1,0 +1,2 @@
+# Kamagou
+learn about GitHub
